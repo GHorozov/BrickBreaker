@@ -1,2 +1,2 @@
 # BrickBreaker
-Console game BrickBreacker!
+Console game BrickBreaker!
